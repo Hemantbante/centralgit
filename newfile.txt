@@ -5,3 +5,7 @@ i have done it untill
 now time to pull and push and url of git hub
 now m on github and 
 m adding some more data from GUI remote side  github on bash terminal
+now its reflecting perfet on terminal git bash 
+now m adding some data on bash terminal 
+and we will check through remote side after pussing data on remote
+
