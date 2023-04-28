@@ -1,3 +1,5 @@
 this is my first file for git 
 now i have added this file ti staging agrea 
 now m going to commit this file and data
+i have done it untill
+now time to pull and push and url of git hub
