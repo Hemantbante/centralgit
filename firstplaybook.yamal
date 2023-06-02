@@ -1,0 +1,9 @@
+---
+Name: my first plabook
+hosts: all
+tast:
+  - name: my first task
+  - debug:
+      msg: "hello guys"
+
+...
